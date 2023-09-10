@@ -5,7 +5,6 @@
 * [Technologies Used](#Prerequisitos)
 * [Implementation](#Implementacion)
 * [Flow](#flujo)
-* [Instructions to run the test]
 * [Project Status](#project-status)
 
 
